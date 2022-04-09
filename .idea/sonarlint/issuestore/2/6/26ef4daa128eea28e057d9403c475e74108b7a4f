@@ -1,0 +1,6 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ë”¾
+J
+java:S1068"/Remove this unused "taskManager" private field.(¡¤¨èúÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.( üà

@@ -1,0 +1,10 @@
+
+`	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(¹å°žøÿÿÿÿ
+`	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(¹å°žøÿÿÿÿ
+`	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(¹å°žøÿÿÿÿ
+X
+java:S16126"=Replace this lambda with method reference 'Task.class::cast'.(Š¼á÷üÿÿÿÿ
+
+java:S1192,"dDefine a constant instead of duplicating this literal "missing required argument: 'epicId'" 3 times.(¹å°žøÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(üÕÙä

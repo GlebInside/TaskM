@@ -1,0 +1,39 @@
+
+l	java:S116"RRename this field "API_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÖÏÂûÿÿÿÿ
+E
+java:S1611"/Remove the parentheses around the "h" parameter(‡ŸÚÜ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰çÊºøÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(óµÅ•
+S	java:S106("9Replace this use of System.out or System.err by a logger.(óø Éúÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(­›±á
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Î‹Í­
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(”Ù¥†
+D
+java:S1611E"/Remove the parentheses around the "h" parameter(ó¸ë}
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(“™íşûÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(óµÅ•
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(í’‰çşÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(Ÿ…ëÎşÿÿÿÿ
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(ÕÊ¼ã
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(›Ì¬÷
+J
+java:S1611j"/Remove the parentheses around the "h" parameter(»ıŞÛùÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(‹¤şÿÿÿÿ
+N	java:S106r"9Replace this use of System.out or System.err by a logger.(Å—ô©
+S	java:S106|"9Replace this use of System.out or System.err by a logger.(ãî¼şúÿÿÿÿ
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(³Ú™—úÿÿÿÿ
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(øëˆıÿÿÿÿ
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(Ëñƒæ
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(øëˆıÿÿÿÿ
+P
+java:S4719’"9Replace charset name argument with StandardCharsets.UTF_8(‚Ê˜³
+U
+java:S4719–"9Replace charset name argument with StandardCharsets.UTF_8(ãÀŸôûÿÿÿÿ
+f
+java:S1301$"KReplace this "switch" statement by "if" statements to increase readability.(Ù»È‚ÿÿÿÿÿ
+f
+java:S1301M"KReplace this "switch" statement by "if" statements to increase readability.(Ù»È‚ÿÿÿÿÿ
+f
+java:S1301m"KReplace this "switch" statement by "if" statements to increase readability.(Ù»È‚ÿÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(üÕÙä

@@ -1,0 +1,18 @@
+
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ÃÜ²
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ƒ”¿Ãúÿÿÿÿ
+D
+java:S19407")Use the opposite operator ("!=") instead.( ¸ÀÍşÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ŒÏóú
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(ÏÕ¨»
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(ÍÖÖûÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(¾ÌÁ˜øÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(èŸåùÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(ƒ”¿Ãúÿÿÿÿ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(‡“€¸ûÿÿÿÿ
+X
+java:S1117"<Rename "subtasks" which hides the field declared at line 14.(ÇÈ ¥ûÿÿÿÿ
+O	java:S106Ú"9Replace this use of System.out or System.err by a logger.(¼íê 
+O	java:S106ß"9Replace this use of System.out or System.err by a logger.(É­ËÖ
+X
+java:S1126ë"AReplace this if-then-else statement by a single return statement.(ñ£»Œ
